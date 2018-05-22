@@ -1,3 +1,3 @@
-Executing the transpiled code
+# Next Steps
 
-npx --no-install --package babel-cli babel-node js/sum.js
+[] Add source maps, and figure out how to debug 
